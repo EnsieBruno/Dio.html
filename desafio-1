@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio</title>
+
+</head>
+
+<body>
+    
+    <h1>HTML</h1>
+    <hr>
+
+    <ul>
+        <li><a href="#surgimento">Surgimento do HTML</a></li>
+        <li><a href="#tags">Tags Mais Usadas</a></li>
+        <li><a href="#futuro">Próximos Passos</a></li>
+    </ul>
+
+    <hr>
+
+    <h2 id="surgimento">
+        Surgimento do HTML
+    </h2>
+
+    <h3>
+        <p>
+        <i>HTML (Hypertext Markup Language)</i> é uma linguagem de marcação utilizada para criar e exibir conteúdo na web. A sua evolução começou em 1989, quando Tim Berners-Lee, um cientista da computação britânico que trabalhava no CERN (Organização Europeia para a Pesquisa Nuclear), desenvolveu a ideia da World Wide Web.
+        </p>
+        <p>
+        A primeira versão do HTML, conhecida como HTML 1.0, foi lançada em 1991. Essa versão incluía tags básicas para formatar o texto, como H1 para títulos, p para parágrafos e a para links. Também incluía imagens, embora apenas em preto e branco.
+        </p>
+        <p>
+        Desde então, o HTML5 se tornou a versão mais utilizada do HTML e é suportado por todos os principais navegadores da web. Além disso, o HTML5 continua a ser atualizado com novos recursos e funcionalidades para acompanhar as demandas em constante evolução da web.
+        </p>
+    </h3>
+
+    <hr>
+
+    <h2 id="tags">
+        Tags Mais Usadas
+    </h2>
+
+    <h3>
+        <ol>
+            <li><p>html – Esta tag é usada para definir o início do documento HTML.</p></li>
+            <li><p>head – Esta tag é usada para incluir informações sobre a página, como o título da página, meta tags e scripts.</p></li>
+            <li><p>title – Esta tag é usada para definir o título da página, que aparece na barra de título do navegador.</p></li>
+            <li><p>body – Esta tag é usada para definir o conteúdo da página, como textos, imagens, vídeos, links e outros elementos.</p></li>
+            <li><p>h1 até h6 – Essas tags são usadas para criar títulos e subtítulos, com diferentes níveis de importância. </p> </li>
+        </ol>
+    </h3>
+
+    <hr>
+
+    <h2 id="futuro">
+        Próximos Passos
+    </h2>
+
+    <h3>
+        <p>
+        Nesse artigo você aprendeu sobre o HTML suas principais tags e funcionalidades.
+        </p>    
+        <p>
+        Se você sentiu alguma dificuldade ou então tem alguma sugestão de algo que não foi mencionado, basta deixar aí nos comentários que no futuro podemos trazer atualizações para este artigo. Também indico esses outros materiais relacionados com este assunto:
+        </p> 
+    
+    </h3>
+
+    <h4><blockquote>"Html <mark>não é uma linguagem de programação</mark>"</blockquote></h4>
+    <h5><strong>Até mais! </strong></h5>
+
+
+    <h6><sub>textos retirados da internet</sub></h6>
+</body>
+
+</html>
